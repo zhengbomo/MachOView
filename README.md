@@ -1,3 +1,5 @@
+
+```
    _____                .__     ____________   ____.__               
   /     \ _____    ____ |  |__  \_____  \   \ /   /|__| ______  _  __
  /  \ /  \\__  \ _/ ___\|  |  \  /   |   \   Y   / |  |/ __ \ \/ \/ /
@@ -31,3 +33,8 @@ The whole Mach-O parsing code needs to be reviewed and made more robust.
 
 Enjoy,
 fG!
+```
+
+![dragview](images/drag_demo.jpg)
+
+![macho](images/macho_demo.jpg)
